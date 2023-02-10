@@ -17,6 +17,8 @@ As they were binary, the indexes would probably have less bits to read than the 
 
 -run 
 
+```git@github.com:Kemeli/push_swap.git```
+
 ```make```
 
 ```./push_swap <chosen amount of values>```
