@@ -21,7 +21,7 @@ As they were binary, the indexes would probably have less bits to read than the 
 
 ```make```
 
-```./push_swap <chosen amount of values>```
+```./push_swap <chosen numeric values>```
 
 what you will see printed on the screen are the movements the program had to do to order those numbers
 
