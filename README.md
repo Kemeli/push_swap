@@ -23,7 +23,7 @@ As they were binary, the indexes would probably have less bits to read than the 
 
 ```./push_swap <chosen numeric values>```
 
-what you will see printed on the screen are the movements the program had to do to order those numbers
+what you will see printed on the screen are the movements the program had to do to order those numbers:
 
 - sa (swap a): Swap the first 2 elements at the top of stack a.
 
