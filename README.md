@@ -17,7 +17,7 @@ As they were binary, the indexes would probably have less bits to read than the 
 
 -run 
 
-```git@github.com:Kemeli/push_swap.git```
+```git clone git@github.com:Kemeli/push_swap.git push_swap```
 
 ```make```
 
